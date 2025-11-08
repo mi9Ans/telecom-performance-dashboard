@@ -1,6 +1,3 @@
-# telecom-performance-dashboard
-A complete business dashboard analyzing telecom customer activity, complaint trends, and maintenance efficiency. The project combines SQL, Python (Pandas), and BI visualization to uncover churn risk and network performance patterns.
-
 # 📊 Telecom Performance Dashboard
 
 ## Overview  
@@ -26,11 +23,7 @@ Performed using **Python (Pandas)** and **SQL**:
 - Aggregated KPIs: complaint rate per 100 customers, average usage, and downtime.  
 - Calculated metrics for active user ratio, maintenance duration, and complaint density.  
 
-### 3. Dashboard Development  
-- Designed a clean, modern business dashboard.  
-- Built KPI cards for total customers, complaints, and activity ratio.  
-- Visualized complaint and maintenance trends by time, plan, and region.  
-- Summarized insights and key recommendations in the final “Insights & Recommendations” section.  
+**Python Script:** [`telecom-cleaning.py`](telecom-cleaning.py)
 
 ---
 
@@ -53,23 +46,24 @@ Performed using **Python (Pandas)** and **SQL**:
 
 ---
 
+## 📂 Deliverables
+
+**📘 Dashboard PDF:**  
+[Telecom Performance Dashboard (Full Report)](Telecom_Performance_Dashboard_Revised.pdf)
+
+**🖼️ Dashboard Preview Images:**  
+- [Page 1](Telecom_Performance_Dashboard_Revised_page-0001.jpg)  
+- [Page 2](Telecom_Performance_Dashboard_Revised_page-0002.jpg)  
+- [Page 3](Telecom_Performance_Dashboard_Revised_page-0003.jpg)  
+- [Page 4](Telecom_Performance_Dashboard_Revised_page-0004.jpg)
+
+---
+
 ## 🛠 Tools & Technologies
 - **Python:** Pandas, Matplotlib  
 - **SQL:** Data aggregation and joins  
 - **BI Tools:** Microsoft Fabric / Power BI Service  
 - **Excel:** Preliminary data profiling and validation  
-
----
-
-## 📂 Deliverables
-- **Dashboard PDF:** [`Telecom_Performance_Dashboard_Revised.pdf`](dashboard/Telecom_Performance_Dashboard_Revised.pdf)  
-- **Case Study Summary:** Key insights and recommendations (see final page).  
-- **Notebook:** [`telecom_cleaning.py`](notebooks/telecom_cleaning.py)  
-
----
-
-## 📸 Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_thumbnail.png)
 
 ---
 
@@ -82,11 +76,12 @@ The insights help identify inefficiencies, customer dissatisfaction patterns, an
 ## 📢 Author
 **Anshumaan Mishra**  
 Freelance Data Analyst  
-📧 anshumaanmishra@myyahoo.com 
-🔗 [LinkedIn]((https://www.linkedin.com/in/anshumaan-mishra-211118365/))  
+📧 anshumaanmishra@myyahoo.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anshumaan-mishra-211118365/)
 
 ---
 
 ## 🧾 License
 This project is open-source and available for educational and portfolio use.  
 Feel free to fork, reference, or adapt with proper attribution.
+
