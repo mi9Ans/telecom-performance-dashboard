@@ -62,9 +62,9 @@ Performed using **Python (Pandas)** and **SQL**:
 ---
 
 ## 📂 Deliverables
-- **Dashboard PDF:** [`Telecom_Performance_Dashboard.pdf`](dashboard/Telecom_Performance_Dashboard.pdf)  
+- **Dashboard PDF:** [`Telecom_Performance_Dashboard.pdf`](dashboard/Telecom_Performance_Dashboard_Revised.pdf)  
 - **Case Study Summary:** Key insights and recommendations (see final page).  
-- **Notebook:** [`telecom_analysis.ipynb`](notebooks/telecom_analysis.ipynb)  
+- **Notebook:** [`telecom_analysis.ipynb`](notebooks/telecom_cleaning.py)  
 
 ---
 
